@@ -1,4 +1,4 @@
-# 🚀 Cold Mail Bot
+#  Cold Mail Bot
 
 > Paste a LinkedIn post URL → AI writes a personalized cold email → Sends it from your own Gmail automatically.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## ✨ What it does
+##  What it does
 
 1. You paste a **LinkedIn post URL** from an HR
 2. AI reads the post and writes a **personalized cold email**
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -29,7 +29,7 @@
 
 ---
 
-## 📁 Repositories
+##  Repositories
 
 | Repo | Description |
 |------|-------------|
@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Open [cold-mail-frontend.vercel.app](https://cold-mail-frontend.vercel.app)
 2. Click **Connect Gmail** and sign in with your Google account
@@ -50,7 +50,7 @@
 
 ---
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 ### Backend
 \`\`\`bash
@@ -82,21 +82,16 @@ ADMIN_PASSWORD=your_admin_password
 
 ---
 
-## 🔥 Features
+##  Features
 
-- ✅ **Per-user Gmail** — every user sends from their own Gmail
-- ✅ **AI-powered emails** — LLaMA 3.3 70B writes personalized emails
-- ✅ **Auto email detection** — finds HR email from post or Hunter.io
-- ✅ **Resume attachment** — PDF resume attached automatically
-- ✅ **Profile saved** — your profile saved in browser, never retype
-- ✅ **Edit before send** — preview and edit email before sending
-
----
-
-## 👨‍💻 Built by
-
-**Shourya Goel** — IIT BHU, Chemical Engineering
+-  **Per-user Gmail** — every user sends from their own Gmail
+-  **AI-powered emails** — LLaMA 3.3 70B writes personalized emails
+-  **Auto email detection** — finds HR email from post or Hunter.io
+-  **Resume attachment** — PDF resume attached automatically
+-  **Profile saved** — your profile saved in browser, never retype
+-  **Edit before send** — preview and edit email before sending
 
 ---
+
 
 ⭐ Star this repo if you found it useful!
